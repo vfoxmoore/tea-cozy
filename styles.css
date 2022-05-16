@@ -87,7 +87,7 @@ figcaption {
 }
 /* Section 3 Styles */
 .locations-section {
-    background-image: url(/images/img-locations-background.jpg);
+    background-image: url(images/img-locations-background.jpg);
     height: 500px;
     display: flexbox;
     justify-content: center;
