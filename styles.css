@@ -36,7 +36,7 @@ nav ul li {
 
 /* Section 1 Styles */
 header {
-    background-image: url(/images/img-mission-background.jpg);
+    background-image: url(images/img-mission-background.jpg);
     height: 700px;
     display: flex;
     justify-content: center;
